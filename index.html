@@ -11,17 +11,16 @@
     	<header>
 			<div class="cabecalho">
                 <nav class = 'cabecalho-nav'>
-                    <ul class = 'cabecalho-lista'>
+                    <ul class = 'cabecalho-lista' >
                         <li><a href="#sobre-mim">About me</a></li>
                         <li><a href="#projetos">Projects</a></li>
-                        <li><a href="#habilidades">Skills</a></li>
-                        <li><a href="#habilidades">Latest courses</a></li>
+                        <li><a href="#cursos">Latest courses</a></li>
 						<li></li>
                     </ul>
                 </nav>
 			</div>
 		</header>
-        <main>
+        <main id="sobre-mim">
 			<div class = "apresentacao">
             	<p>Hi, i`m Thiago,</p>
 				<p> currently working as a Backend Developer at Itaú Unibanco.
@@ -33,13 +32,13 @@
             	
 			</div>
 			<div class = 'apresentacao_img'>
-				<h1>
-					<img class = 'perfil' src="./src/img/thi_whith_border.png" alt = "Thiago Farias de perfil">
-				</h1>
+					<h1>
+						<img class = 'perfil' src="./src/img/thi_whith_border.png" alt = "Thiago Farias de perfil">
+					</h1>
 			</div>
             
         </main>
-        <section class = 'projetos'>
+        <section class = 'projetos' id="projetos">
             <h1 class = 'titulo_sessao' >projects</h1>
             <ul>
 				<li>
@@ -59,24 +58,30 @@
 				</li>
             </ul>
         </section>
-        <section class = 'cursos'>
+        <section class = 'cursos' id = 'cursos'>
             <h1 class = 'titulo_sessao'>latest courses</h1>
             <ul>
 				<li>
-					<h2>course</h2>
-					<img src="./src/img/no content.jpg 	" class="projeto_img">
-					<input type="submit" value="See more" class="projeto_botao">
+					<h2>Formação engenharia <br> de software</h2>
+					<img src="./src/img/certificados/eng_software.svg" class="projeto_img">
+					<a href="https://cursos.alura.com.br/user/thiagodcfarias1/degree-engenharia-software-287214/certificate" target="_blank">
+						<input type="submit" value="See more" class="projeto_botao">
+					</a>
 				</li>
                 <li>
-					<h2>course</h2>
-					<img src="./src/img/no content.jpg 	" class="projeto_img">
-					<input type="submit" value="See more" class="projeto_botao">
+					<h2>Formação<br>Agilista</h2>
+					<img src="./src/img/certificados/carreira-inovacao-gestao.svg" class="projeto_img">
+					<a href="https://cursos.alura.com.br/user/thiagodcfarias1/career/agilista/certificate" target="_blank">
+						<input type="submit" value="See more" class="projeto_botao">
+					</a>
 				</li>
                 <li>
-					<h2>course</h2>
-					<img src="./src/img/no content.jpg 	" class="projeto_img">
-					<input type="submit" value="See more" class="projeto_botao">
-            </ul>
+					<h2>Html 5 <br> and css</h2>
+					<img src="./src/img/certificados/front-end.svg" class="projeto_img">
+					<a href="https://cursos.alura.com.br/user/thiagodcfarias1/course/html5-css3-avancando-css/certificate" target="_blank">
+						<input type="submit" value="See more" class="projeto_botao">
+					</a>
+            </ul>  
             <div class="ver_mais">
 				<!-- <input type="submit" value="See All"> -->
 			</div>
