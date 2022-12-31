@@ -399,7 +399,7 @@ footer li:hover{
     .apresentacao_img {
         width: 100%;
         box-sizing: border-box;
-        padding-left: 10%;
+        padding-left: 0%;
         padding-right: 10%;
         height: 50%;
     }
