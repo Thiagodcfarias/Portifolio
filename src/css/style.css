@@ -55,7 +55,7 @@ main{
 .apresentacao_img{
     width: 50%;
     box-sizing: border-box;
-    padding-left: 10%;
+    padding-left: 13%;
     padding-right: 2%;
     height: 50%;
     animation: desenhoAnimacao 2.1s infinite alternate-reverse linear;
@@ -399,13 +399,13 @@ footer li:hover{
     .apresentacao_img {
         width: 100%;
         box-sizing: border-box;
-        padding-left: 0%;
-        padding-right: 20%;
+        padding-left: 10%;
+        padding-right: 10%;
         height: 50%;
     }
 
     .perfil {
-        width: 34vmax;
+        width: 31vmax;
     }
 
     footer ul {
