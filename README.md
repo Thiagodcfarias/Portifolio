@@ -1,4 +1,4 @@
-# :dark_sunglasses: Portifolio
+# :compass: Portifolio
 
 ![](https://github.com/Thiagodcfarias/Portifolio/blob/main/thumb.png)
 
