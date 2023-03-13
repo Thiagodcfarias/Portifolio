@@ -410,6 +410,10 @@ footer li:hover{
     .perfil {
         width: 31vmax;
     }
+    
+    .ver_mais input{
+        width: 60%;
+    }
 
     footer ul {
         width: 46%;
