@@ -341,6 +341,10 @@ footer li:hover{
 }
 
 @media(max-width:950px){
+    
+    .cabecalho{
+        height: 8%;
+    }
 
     .cabecalho-nav {
         width: 100%;
