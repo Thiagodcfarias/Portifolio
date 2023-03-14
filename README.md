@@ -2,9 +2,7 @@
 
 ![](https://github.com/Thiagodcfarias/Portifolio/blob/main/thumb.png)
 
-# :open_book: Description
-
-## Pages
+# :open_book: Pages
 
 ### /: Home page, with main projects and latest courses
 
