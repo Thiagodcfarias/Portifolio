@@ -12,7 +12,7 @@
 
 # :mag: References
 
-## Colors
+## Style
 ![](https://github.com/Thiagodcfarias/Portifolio/blob/main/src/img/references_color_pallete.png)
 
 ## Structure
