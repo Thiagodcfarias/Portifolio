@@ -4,4 +4,19 @@
 
 # :open_book: Description
 
-Repo used as a profile, fell free to contact me !
+## Pages
+
+### /: Home page, with main projects and latest courses
+
+### /courses: Page with all completed courses
+
+# :mag: References
+
+## Colors
+![](https://github.com/Thiagodcfarias/Portifolio/blob/main/src/img/references_color_pallete.png)
+
+## Structure
+https://github.com/Math-Vieira/Portfolio
+
+
+
