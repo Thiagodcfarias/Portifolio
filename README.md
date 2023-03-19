@@ -8,6 +8,8 @@
 
 ### /courses: Page with all completed courses
 
+### /projects: Page with all projects
+
 # :mag: References
 
 ## Style
