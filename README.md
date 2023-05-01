@@ -4,11 +4,11 @@
 
 # :open_book: Pages
 
-### /: Home page, with main projects and latest courses
+- /: Home page, with main projects and latest courses
 
-### /courses: Page with all completed courses
+- /courses: Page with all completed courses
 
-### /projects: Page with all projects
+- /projects: Page with all projects
 
 # :mag: References
 
